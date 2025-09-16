@@ -1,4 +1,4 @@
-🏦 # OOPS – Banking System
+# 🏦  OOPS – Banking System
 📌 Project Overview
 
 This project demonstrates the use of Object-Oriented Programming (OOPS) concepts in building a simple Banking System.
